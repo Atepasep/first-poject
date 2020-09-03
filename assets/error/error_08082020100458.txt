@@ -1,0 +1,3 @@
+A Database Error Occurred
+
+<p>Error Number: 1064</p><p>You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'hadirnu = ,lembur = ,lemburar = ,lemburnu = ,kmb = ,ket =  where tanggal = '2...' at line 1</p><p>update kuponmakan set hadir = 70,hadirar = ,hadirnu = ,lembur = ,lemburar = ,lemburnu = ,kmb = ,ket =  where tanggal = '2020-08-07' and departemen = 'NT' and shifp = 's' </p><p>Filename: C:/xampp/htdocs/ifncloud/system/database/DB_driver.php</p><p>Line Number: 691</p>

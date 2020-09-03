@@ -1,0 +1,3 @@
+A Database Error Occurred
+
+<p>Error Number: 1054</p><p>Unknown column 'AW' in 'where clause'</p><p>select * from dept2 where dept_id = AW</p><p>Filename: C:/xampp/htdocs/ifncloud/system/database/DB_driver.php</p><p>Line Number: 691</p>

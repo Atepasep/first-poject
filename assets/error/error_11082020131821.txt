@@ -1,0 +1,3 @@
+A Database Error Occurred
+
+<p>Error Number: 1064</p><p>You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'uodate detail_absen set isiabsen = '' where id = 38' at line 1</p><p>uodate detail_absen set isiabsen = '' where id = 38</p><p>Filename: C:/xampp/htdocs/ifncloud/system/database/DB_driver.php</p><p>Line Number: 691</p>

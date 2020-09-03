@@ -1,0 +1,3 @@
+A Database Error Occurred
+
+<p>Error Number: 1054</p><p>Unknown column 'A' in 'field list'</p><p>update kuponmakan set hadir = 15,hadirar = 44,hadirnu = 14,lembur = 0,lemburar = 5,lemburnu = 0,kmb = 0,ket = A where tanggal = '2020-08-07' and departemen = 'NT' and shifp = 's' </p><p>Filename: C:/xampp/htdocs/ifncloud/system/database/DB_driver.php</p><p>Line Number: 691</p>

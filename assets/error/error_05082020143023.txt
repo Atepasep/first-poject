@@ -1,0 +1,3 @@
+A Database Error Occurred
+
+<p>Error Number: 1062</p><p>Duplicate entry '2020-08-05-FN-p' for key 'tanggal'</p><p>INSERT INTO `absen` (`tanggal`, `id_dept`, `shif`, `grup`, `jumlahkry`) VALUES ('2020-8-05', 'FN', 'p', 'GROUP C        ', '500')</p><p>Filename: C:/xampp/htdocs/ifncloud/system/database/DB_driver.php</p><p>Line Number: 691</p>
