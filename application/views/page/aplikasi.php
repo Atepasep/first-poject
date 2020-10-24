@@ -7,7 +7,7 @@
 			<div>
 				<h4 class="mb-sm-3">Selamat Datang</h4>
 				<p>Anda masuk ke dalam menu daftar aplikasi yang dapat diakses <?= namadepartemen($this->session->userdata('bagian')) ?></p>
-				<p>Selamat bekerja !</p>
+				<p>Selamat bekerja !x</p>
 			</div>
 		</div>
 		<div class="row mt-sm-2">
